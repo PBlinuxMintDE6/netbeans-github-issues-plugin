@@ -59,34 +59,34 @@
         <dependency>
             <groupId>org.netbeans.api</groupId>
             <artifactId>org-netbeans-api-annotations-common</artifactId>
-            <version>RELEASE80</version>
+            <version>RELEASE74</version>
         </dependency>
         <dependency>
             <groupId>org.netbeans.api</groupId>
             <artifactId>org-netbeans-modules-bugtracking</artifactId>
-            <version>RELEASE80</version>
+            <version>RELEASE74</version>
             <type>jar</type>
         </dependency>
         <dependency>
             <groupId>org.netbeans.api</groupId>
             <artifactId>org-openide-util</artifactId>
-            <version>RELEASE80</version>
+            <version>RELEASE74</version>
         </dependency>
         <dependency>
             <groupId>org.netbeans.modules</groupId>
             <artifactId>org-netbeans-modules-bugtracking-commons</artifactId>
-            <version>RELEASE80</version>
+            <version>RELEASE74</version>
             <type>jar</type>
         </dependency>
         <dependency>
             <groupId>org.netbeans.api</groupId>
             <artifactId>org-openide-awt</artifactId>
-            <version>RELEASE80</version>
+            <version>RELEASE74</version>
         </dependency>
         <dependency>
             <groupId>org.netbeans.api</groupId>
             <artifactId>org-openide-dialogs</artifactId>
-            <version>RELEASE80</version>
+            <version>RELEASE74</version>
         </dependency>
         <dependency>
             <groupId>org.pegdown</groupId>
@@ -112,27 +112,27 @@
         <dependency>
             <groupId>org.netbeans.api</groupId>
             <artifactId>org-openide-nodes</artifactId>
-            <version>RELEASE80</version>
+            <version>RELEASE74</version>
         </dependency>
         <dependency>
             <groupId>org.netbeans.modules</groupId>
             <artifactId>org-netbeans-modules-team-commons</artifactId>
-            <version>RELEASE80</version>
+            <version>RELEASE74</version>
         </dependency>
         <dependency>
             <groupId>org.netbeans.api</groupId>
             <artifactId>org-openide-util-lookup</artifactId>
-            <version>RELEASE80</version>
+            <version>RELEASE74</version>
         </dependency>
         <dependency>
             <groupId>org.netbeans.api</groupId>
             <artifactId>org-netbeans-modules-options-api</artifactId>
-            <version>RELEASE80</version>
+            <version>RELEASE74</version>
         </dependency>
         <dependency>
             <groupId>org.netbeans.external</groupId>
             <artifactId>swingx-0.9.5</artifactId>
-            <version>RELEASE72</version>
+            <version>RELEASE74</version>
         </dependency>
         <dependency>
             <groupId>com.google.code.gson</groupId>

@@ -10,7 +10,7 @@
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>nbm-maven-plugin</artifactId>
-                <version>3.13</version>
+                <version>3.0.5</version>
                 <extensions>true</extensions>
                 <configuration>
                     <codeNameBase>com.junichi11.netbeans.github.issues</codeNameBase>
